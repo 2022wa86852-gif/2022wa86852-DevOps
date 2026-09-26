@@ -1,5 +1,5 @@
-git add .
-git commit -m "Initial Commit"
-git branch -M main
-git remote add origin https://github.com/2022wa86852-gif/2022wa86852-DevOps.git
-git push -u origin main
+public class App {
+    public static void main(String[] args) {
+        System.out.println("DevOps Lab - Jenkins Maven Build");
+    }
+}
