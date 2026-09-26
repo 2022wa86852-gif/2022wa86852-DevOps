@@ -3,3 +3,4 @@ public class App {
         System.out.println("DevOps Lab - Jenkins Maven Build 2022wa86852");
     }
 } 
+ 
